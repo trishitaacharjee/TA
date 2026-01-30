@@ -1,0 +1,5 @@
+provider,instance_type,vcpu,memory_gb,price_per_hour,region
+GCP,e2-micro,2,1,0.0076,asia
+GCP,e2-small,2,2,0.015,us
+GCP,n1-standard-1,1,3.75,0.0475,europe
+GCP,n1-standard-2,2,7.5,0.095,europe

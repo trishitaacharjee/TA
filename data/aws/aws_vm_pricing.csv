@@ -1,0 +1,7 @@
+provider,instance_type,vcpu,memory_gb,price_per_hour,region
+AWS,t2.micro,1,1,0.0116,asia
+AWS,t3.micro,2,1,0.0104,asia
+AWS,t3.small,2,2,0.0208,us
+AWS,c5.large,2,4,0.085,us
+AWS,m5.large,2,8,0.096,europe
+AWS,m5.xlarge,4,16,0.192,europe

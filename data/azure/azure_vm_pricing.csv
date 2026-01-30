@@ -1,0 +1,6 @@
+provider,instance_type,vcpu,memory_gb,price_per_hour,region
+Azure,B1s,1,1,0.012,asia
+Azure,B2s,2,4,0.025,asia
+Azure,D2_v3,2,8,0.096,us
+Azure,D4_v3,4,16,0.192,europe
+Azure,F4s_v2,4,8,0.168,europe
