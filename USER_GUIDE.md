@@ -120,6 +120,7 @@ The Generate Report option:
 - Multi-account support
 
 12. Conclusion
+
 Cloud CostSense provides a practical, scalable, and extensible solution for cloud cost comparison.
 By combining real cloud pricing APIs, local database caching, and an interactive CLI, the tool demonstrates a strong foundation for enterprise-level cost analysis systems.
 
